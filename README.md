@@ -26,8 +26,8 @@ python hybrid_gpu.py
 
 # Environment Requirements
 
-- **OS** : Windows 10, 11
-- **Required Programs** : Python 3 (3.14, 3.11, etc.)
+- **OS** : Windows 10, 11 / macOS / Linux
+- **Required Programs** : Python 3 (3.14, 3.12, 3.11, etc.)
 - **Launch** : Administrator CMD, Administrator PowerShell
 
 # License
